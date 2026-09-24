@@ -1,0 +1,14 @@
+{
+  "name": "cmd_uses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cmd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon cmd.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
